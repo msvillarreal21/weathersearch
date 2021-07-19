@@ -1,0 +1,20 @@
+.search {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    border-style: solid;
+    height: 50px;
+    background-image: linear-gradient(to right, blue, indigo, rgb(9, 0, 130) );
+}
+
+.form-group {
+    padding-bottom: 15px;
+}
+
+#btn {
+    color: white;
+    background-color: cornflowerblue;
+    width: 13%;
+    border-radius: 5px;
+}
+
